@@ -1,0 +1,3 @@
+﻿model,ready,ppo_before_ranking,ppo_ect,ppo_ddqn,ppo_step,ranking_step,ddqn_step,ddqn_mode
+6x6,58.078,59.83,58.537,58.47,0,4,270,诊断
+10x6,64.7,66.16,65.118,65.067,0,10,240,诊断

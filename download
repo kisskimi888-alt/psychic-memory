@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+hospital_latest_results/
